@@ -17,3 +17,6 @@ profissao = "psicóloga"
 idade = 54
 lugarDosSonhos = "Coimbra, Portugal"
 
+//Exibindo os valores das variáveis na tela
+
+console.log(nome, email, profissao, idade, lugarDosSonhos)
